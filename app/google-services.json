@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561973455580",
+    "project_id": "alpha-printproj",
+    "storage_bucket": "alpha-printproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561973455580:android:417855e786b65595922219",
+        "android_client_info": {
+          "package_name": "com.example.finalproj_alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561973455580-iojd4ncog4difch806g8td24npmt0spr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4nmu5qmIdMpMVYM3e8CEGx1VMKIpHllA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561973455580-iojd4ncog4difch806g8td24npmt0spr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
