@@ -74,7 +74,7 @@
                 android:id="@+id/button"
                 android:layout_width="0px"
                 android:layout_height="match_parent"
-                android:layout_weight="40"
+                android:layout_weight="30"
                 android:onClick="sign_out_func"
                 android:text="Sign Out" />
 
@@ -87,9 +87,22 @@
                 android:id="@+id/button2"
                 android:layout_width="0px"
                 android:layout_height="match_parent"
-                android:layout_weight="40"
+                android:layout_weight="30"
                 android:onClick="request_print"
                 android:text="Request Print" />
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="10" />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="30"
+                android:onClick="notif"
+                android:text="notif" />
         </LinearLayout>
 
         <Space

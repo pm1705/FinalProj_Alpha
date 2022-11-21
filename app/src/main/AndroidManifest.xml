@@ -12,7 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FinalProj_Alpha">
-        <activity android:name=".home_screen"></activity>
+        <activity android:name=".notificationPractice"></activity>
+        <activity android:name=".home_screen" />
         <activity android:name=".login">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,7 +23,7 @@
         </activity>
         <activity android:name=".send_request" />
         <activity android:name=".settings_page" />
-        <activity android:name=".Upload_file"/>
+        <activity android:name=".Upload_file" />
     </application>
 
 </manifest>

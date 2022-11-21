@@ -78,4 +78,9 @@ public class home_screen extends AppCompatActivity {
         startActivity(upload_file_screen);
 
     }
+
+    public void notif(View view) {
+        Intent notification_screen = new Intent(this, notificationPractice.class);
+        startActivity(notification_screen);
+    }
 }
